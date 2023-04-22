@@ -1,5 +1,5 @@
 # Electric-Vehicle-Analytics
-Visualization Tool for Electric Cars Charge and Range Analytics
+Visualization Tool for Electric Vehicles Charge and Range Analytics
 
 **Dashboard Link :** https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_16821557076970/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
